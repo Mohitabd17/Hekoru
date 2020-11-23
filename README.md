@@ -1,2 +1,2 @@
 # Hekoru
-Cloud Hosting Website https://hekoru.netlify.app/docs.html
+Cloud Hosting Website https://hekoru.netlify.app
